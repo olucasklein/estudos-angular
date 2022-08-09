@@ -1,6 +1,6 @@
 <h1 align="center"> Estudos - Angular</h1>
 
-<p align="center">Projeto com fins de estudos.</p>
+<p align="center">Projeto com fins de estudos, informações fictícias</p>
 
 <p align="center">
 <img src="./angularproject.png">
