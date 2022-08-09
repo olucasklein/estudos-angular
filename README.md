@@ -1,10 +1,13 @@
 <h1 align="center"> Estudos - Angular</h1>
 
 <p align="center">Projeto com fins de estudos, informações fictícias</p>
+<p>./src/app foi onde eu mais consegui desenvolver os estudos!</>
 
 <p align="center">
 <img src="./angularproject.png">
 </p>
+
+
 
 <h2>🚀 Tecnologias utilizadas: </h2>
 
