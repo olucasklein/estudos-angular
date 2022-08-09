@@ -3,7 +3,7 @@
 <p align="center">Projeto com fins de estudos.</p>
 
 <p align="center">
-<img src="./tuna-challenge.gif">
+<img src="./angularproject.png">
 </p>
 
 <h2>🚀 Tecnologias utilizadas: </h2>
